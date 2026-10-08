@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: student-event-registration-pavan
-        image: raghavendrasaladi/student-event-registration-pavan:latest
+        image: raghavendrasaladi/student-event-registration-pavan:v2
         ports:
         - containerPort: 80
 
